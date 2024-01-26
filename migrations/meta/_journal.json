@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1706302786743,
+      "tag": "0000_public_thena",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1706303342371,
+      "tag": "0001_lumpy_the_watchers",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1706303517601,
+      "tag": "0002_futuristic_luke_cage",
+      "breakpoints": true
+    }
+  ]
+}
